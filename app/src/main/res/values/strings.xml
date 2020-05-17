@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sysfarma</string>
+    <string name="title_activity_main">Sysfarma</string>
+    <string name="cliente">Cliente</string>
+    <string name="fornecedor">Fornecedor</string>
+    <string name="venda">Venda</string>
+    <string name="funcionario">Funcionário</string>
+    <string name="tipo_medic">Categoria</string>
+    <string name="medic">Medicamento</string>
+    <string name="input_nome">Nome *</string>
+    <string name="input_endereco">Endereço *</string>
+    <string name="input_n_endereco">Nº de Endereço *</string>
+    <string name="valida_campos_obrigatorios">Todos os campos são obrigatórios</string>
+    <string name="erro_conexao_sql">Erro de conexão ao Banco de dados.</string>
+    <string name="erro_inserir_sql">Erro Banco de dados ao inserir</string>
+    <string name="dialogo_adicionar">Adicionar</string>
+    <string name="dialogo_alterar">Alterar</string>
+    <string name="dialogo_exluir_alterar">Alterar e Excluir</string>
+    <string name="dialogo_deletar">Deletar</string>
+    <string name="input_email">E-mail *</string>
+    <string name="input_cnpj">CNPJ *</string>
+    <string name="input_total">Total *</string>
+    <string name="total_validacao">O campo total deve ser maior que zero.</string>
+    <string name="erro_nenhum_cliente_cadastro">Erro: Nenhum Cliente cadastrado</string>
+    <string name="input_preco">Preço *</string>
+    <string name="input_nome_obrigatorio">O campo nome é obrigatório</string>
+</resources>
